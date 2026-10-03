@@ -1,0 +1,18 @@
+body,
+header,
+main,
+footer,
+div {
+    background-color: beige;
+    color: black;
+    width: 350px;
+}
+
+.Pallo {
+    border: solid black 4px;
+}
+
+.align-right {
+
+    align-content: flex-end;
+}
