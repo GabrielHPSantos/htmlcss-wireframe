@@ -6,13 +6,11 @@ div {
     background-color: beige;
     color: black;
     width: 350px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .Pallo {
     border: solid black 4px;
-}
-
-.align-right {
-
-    align-content: flex-end;
+    margin: 20px auto;
 }
